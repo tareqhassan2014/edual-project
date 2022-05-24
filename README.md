@@ -1,10 +1,10 @@
 
 # Educal 
-This project is MERN stack project most emphasis on education.This is an Team project.
+This project is MERN stack project most emphasis on education.
 
 ##Team Members
-1. (https://github.com/RHsanto) Rakibul Hasan Shanto
-2. (http://github.com/thekawsarhossain) Kawsar Hossain
+1.  client: https://github.com/tareqhassan2014/edual-project
+2. server: https://github.com/tareqhassan2014/edual-project-server
 
 ## Features
 - In this project we implement firebase authentication system
